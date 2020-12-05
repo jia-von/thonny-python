@@ -16,8 +16,9 @@ This is my first python programming project on Raspberry Pi using Raspian OS. Ad
 ## Challenges completed for Python Program
 - Print **Hello World!**
 - Completed looping:
-  - Identified colon symbol is used to tell Python that the next instruction shuold be part of the loop.
+  - Identified colon symbol is used to tell Python that the next instruction should be part of the loop.
   - Identified that indentation is how Python tells the difference between instruction outside the loop and instructions inside the loop; the indented code is known as being nested. 
     - Indentation is important in Python and one of the most common bug in Python (be aware!)
-    
+  - Identified infinite looping and **interupting program** within Thonny Python IDE
+  
   
