@@ -23,6 +23,9 @@ This is my first python programming project on Raspberry Pi using Raspian OS. Ad
   - Completed conditional statement and variable assignment. Used conditional operators.
   
 ### Python Project Challenge 1: Turtle Snowflakes
-Learn how to play with graphics and create snowflake using pythong library, turtle. 
+Learn how to play with graphics and create snowflake using python library, turtle. 
+- Completed drawing of a parallelogram
+- Completed using loops to draw multiple parallelogram into a snowflake
+
   
   
