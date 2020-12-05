@@ -1,5 +1,7 @@
 import turtle
 pat = turtle.Turtle()
+turtle.Screen().bgcolor("blue")
+pat.color("cyan")
 for i in range (10):
     for i in range(2):
         pat.forward(100)
