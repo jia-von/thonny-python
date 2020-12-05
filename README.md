@@ -3,3 +3,4 @@ This is my first python programming project on Raspberry Pi using Raspian OS. Ad
 
 ## Challenges Completed
 - Set up git authentication using token. 
+- Permanently authenticating with Git repositories
