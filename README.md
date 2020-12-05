@@ -14,6 +14,7 @@ This is my first python programming project on Raspberry Pi using Raspian OS. Ad
 - Permanently authenticating with Git repositories
 
 ## Challenges completed for Python Program
+### Python Basics
 - Print **Hello World!**
 - Completed looping:
   - Identified colon symbol is used to tell Python that the next instruction should be part of the loop.
