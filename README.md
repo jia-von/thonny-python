@@ -26,6 +26,8 @@ This is my first python programming project on Raspberry Pi using Raspian OS. Ad
 Learn how to play with graphics and create snowflake using python library, turtle. 
 - Completed drawing of a parallelogram
 - Completed using loops to draw multiple parallelogram into a snowflake
+- Imported random library to create a randomly generated multicolor snowflake
+- Created a function within python `branch()` to automate snowflake drawing
 
   
   
