@@ -1,5 +1,5 @@
 userName = input ("What is your name?")
-if userName == "Clark Kent":
-    print("You're Superman!")
-else:
-    print ("You're not Superman!")
+while userName != "Clark Kent":
+    print("You're not Superman, try again!")
+    userName = input("What is your name?")
+print("You're Superman!")
