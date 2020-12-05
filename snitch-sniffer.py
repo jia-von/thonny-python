@@ -1,4 +1,5 @@
-print("Loop starting!")
-while True:
-    print("Loop running!")
-print("Loop finished!")
+userName = input ("What is your name?")
+if userName == "Clark Kent":
+    print("You're Superman!")
+else:
+    print ("You're not Superman!")
